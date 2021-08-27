@@ -1,0 +1,4 @@
+a. Komunikasi Daring Sinkron 
+b. Komunikasi Daring Asinkron
+c. GitHub
+d. Git
