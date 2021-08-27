@@ -1,0 +1,4 @@
+A. Komunikasi Daring Sinkron 
+  - line 
+B. Komunikasi Daring Asinkron
+  - Email
